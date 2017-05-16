@@ -23,6 +23,9 @@
 }
 .main .zhezhao img {
   margin-top: 50px;
+  display: inline;
+  max-width: 100%;
+  height: auto;
 }
 .main .zhezhao p {
   margin-top: 20px;
